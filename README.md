@@ -1,4 +1,4 @@
-**你好，我叫Marcus. **
+**你好，我叫Marcus.**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave">
