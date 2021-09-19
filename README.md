@@ -1,7 +1,5 @@
 **你好，我叫Marcus.**
-<img src="https://imgur.com/a/qLJrNS8">
-
-<img src="/1627883255036.jpg">
+<img src="/bannerGithub.jpg">
 
 <!--
 \\
