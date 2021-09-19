@@ -1,5 +1,5 @@
 **你好，我叫Marcus.**
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5ajhIrl" data-context="false" ><a href="//imgur.com/a/5ajhIrl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/qLJrNS8">
 
 <img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave">
 
