@@ -1,7 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave">
-<!--
-**marcu-s/marcu-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**你好，我叫Marcus. **
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave">
+
+<!--
+\\
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
