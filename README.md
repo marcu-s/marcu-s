@@ -1,7 +1,7 @@
 **你好，我叫Marcus.**
 <img src="https://imgur.com/a/qLJrNS8">
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave">
+<img src="/1627883255036.jpg">
 
 <!--
 \\
