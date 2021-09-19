@@ -1,5 +1,5 @@
 **你好，我叫Marcus.**
-<img src="/bannerGithub.jpg">
+<img src="/bannerGithub.png">
 
 <!--
 \\
