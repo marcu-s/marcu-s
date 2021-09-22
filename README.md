@@ -1,6 +1,8 @@
 **你好，我叫Marcus.**
 <img src="/bannerGithub.png">
-<img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave"> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcu-s&count_private=true&show_icons=true&theme=synthwave" />
+</p>
 - Ω I'm currently working on **ARKK**, allowing the public to take control. 
 - Reach out to me on **DISCORD**, Marcus#5000!
 <!--
